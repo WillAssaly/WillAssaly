@@ -32,7 +32,6 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
 ### 🚀 My Projects
 
 #### Project 1: [Project Name](link-to-live-project-or-marketplace)
-![Test](test_gif.gif)
 <!-- ![Project 1 Screenshot](link-to-image)
 A brief description of what the project does and the technologies used. -->
 
