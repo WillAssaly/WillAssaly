@@ -46,6 +46,7 @@ Short explanation of the project, challenges faced, and solutions provided. -->
 - Latest trends in mobile app development
 - User experience design
 - Augmented Reality (AR) app development
+- Artificial Intelligence (AI)
 
 ### 📫 How to Reach Me
 - LinkedIn: www.linkedin.com/in/willassaly
