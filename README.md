@@ -32,12 +32,12 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
 Here's a selection of my most recent and impactful work:
 
 #### Project 1: [Project Name](link-to-live-project-or-marketplace)
-![Project 1 Screenshot](link-to-image)
-A brief description of what the project does and the technologies used.
+<!-- ![Project 1 Screenshot](link-to-image)
+A brief description of what the project does and the technologies used. -->
 
 #### Project 2: [Project Name](link-to-project-repo)
-![Project 2 Screenshot](link-to-image)
-Short explanation of the project, challenges faced, and solutions provided.
+<!--![Project 2 Screenshot](link-to-image)
+Short explanation of the project, challenges faced, and solutions provided. -->
 
 <!-- Repeat for additional projects -->
 
