@@ -1,6 +1,6 @@
 # 🧑‍💻 William Assaly
 
-## Mobile App Developer and Software Craftsman
+**`Mobile App Developer and Digital Craftsman`**
 
 Welcome to my GitHub profile! I specialize in creating intuitive and responsive mobile applications that provide users with an exceptional digital experience.
 
