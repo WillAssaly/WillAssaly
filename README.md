@@ -29,8 +29,6 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
 
 ### 🚀 My Projects
 
-Here's a selection of my most recent and impactful work:
-
 #### Project 1: [Project Name](link-to-live-project-or-marketplace)
 <!-- ![Project 1 Screenshot](link-to-image)
 A brief description of what the project does and the technologies used. -->
@@ -43,10 +41,6 @@ Short explanation of the project, challenges faced, and solutions provided. -->
 
 ---
 
-### 🛠️ Skills
-- Languages: Swift, Kotlin, JavaScript
-- Frameworks: React Native, Flutter
-- Tools: Xcode, Android Studio, Git
 
 ### 💡 Interested in
 - Latest trends in mobile app development
