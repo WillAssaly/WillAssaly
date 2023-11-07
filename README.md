@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
 <!--<img align="left" lat="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" lat="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> -->
 <br />
-<br />
 
 
 #
