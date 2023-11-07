@@ -48,9 +48,6 @@ Short explanation of the project, challenges faced, and solutions provided. -->
 - Augmented Reality (AR) app development
 - Artificial Intelligence (AI)
 
-### 📫 How to Reach Me
-- LinkedIn: www.linkedin.com/in/willassaly
-- Email: willassaly@gmail.com
 
 <!-- Optional sections could include 'Certifications', 'Education', 'Testimonials', or 'Featured In'. -->
 
