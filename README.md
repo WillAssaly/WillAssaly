@@ -5,8 +5,8 @@
 Welcome to my GitHub profile! I specialize in creating intuitive and responsive mobile applications that provide users with an exceptional digital experience.
 
 ---
-### 🛠️Languages and tools
-
+### 🛠️ Languages and tools
+<img align="left" lat="Java" width="30px" style="padding-right:10px;" src="httpscdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 ### 🚀 My Projects
 
 Here's a selection of my most recent and impactful work:
