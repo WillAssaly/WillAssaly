@@ -33,16 +33,16 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
 
 ### Hangman: [Project](https://github.com/WillAssaly/Hangman-IOS-Game)
 
-<table align="center" style="width:100%; max-width:660px;"> <!-- Adjust max-width as needed -->
-  <tr>
-    <td valign="top" style="width:50%;"> <!-- Technology box with bullet points -->
+<table align="center" style="width:100%; max-width:660px; border-collapse: collapse; background-color: #FFFFFF;">  <tr>
+    <td valign="top" style="width:50%;"> <!-- Cell for the title and bullet points -->
+      <h3>Technologies Used</h3> <!-- Title for the bullet points -->
       <ul>
         <li>Swift</li>
-        <li></li>
+        <li>URLSession</li>
         <!-- Additional bullet points -->
       </ul>
     </td>
-    <td style="text-align:center;"> <!-- First three screenshots -->
+      <td style="text-align:center; background-color: #ffffff;">
       <img src="img/Hangman/1.png" width="200" height="400" style="margin-right: 10px;" />
       <img src="img/Hangman/2.png" width="200" height="400" style="margin-right: 10px;" />
       <img src="img/Hangman/3.png" width="200" height="400" />
@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
   <tr>
     <td> <!-- This cell will remain empty to maintain the structure -->
     </td>
-    <td style="text-align:center;"> <!-- Second three screenshots -->
+      <td style="text-align:center; background-color: #ffffff;">
       <img src="img/Hangman/4.png" width="200" height="400" style="margin-right: 10px;" />
       <img src="img/Hangman/5.png" width="200" height="400" style="margin-right: 10px;" />
       <img src="img/Hangman/6.png" width="200" height="400" />
