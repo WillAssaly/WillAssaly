@@ -33,9 +33,9 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
 
 ### Hangman: [Project](https://github.com/WillAssaly/Hangman-IOS-Game)
 
-<table align="center" style="width:100%; max-width:660px; border-collapse: collapse;">
+<table align="center"  border-collapse: collapse;">
   <tr>
-    <td valign="top"> <!-- Cell for the technology box -->
+    <td valign="top" style="width:30px;"> <!-- Cell for the technology box -->
       <h3>Technologies Used</h3>
       <ul>
         <li>Swift</li>
