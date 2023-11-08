@@ -34,6 +34,30 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
 #### Project 1: [Project](link-to-live-project-or-marketplace)
 <!-- ![Project 1 Screenshot](link-to-image)
 A brief description of what the project does and the technologies used. -->
+# Project Name
+
+## App Screenshots
+![Screenshot 1](url-to-screenshot)
+![Screenshot 2](url-to-screenshot)
+<!-- Add as many screenshots as needed -->
+
+## Technologies Used
+### Programming Languages / Frameworks / Databases
+- ![Devicon for Language](url-to-devicon) Language Name
+- ![Devicon for Framework](url-to-devicon) Framework Name
+- ![Devicon for Database](url-to-devicon) Database Name
+<!-- Repeat for each technology -->
+
+### Other Technologies
+- :emoji: Technology 1
+- :emoji: Technology 2
+<!-- Use GitHub markdown emojis or images -->
+
+## Key Features and Functionalities
+- **Feature 1**: Description of feature or functionality.
+- **Feature 2**: Description of feature or functionality.
+<!-- Repeat for additional features -->
+
 
 #### Project 2: [Project](link-to-project-repo)
 <!--![Project 2 Screenshot](link-to-image)
