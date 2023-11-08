@@ -31,32 +31,42 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
 
 ### 🚀 My Projects
 
-#### Project 1: [Project](link-to-live-project-or-marketplace)
-<!-- ![Project 1 Screenshot](link-to-image)
-A brief description of what the project does and the technologies used. -->
-# Project Name
+### Hangman: [Project](https://github.com/WillAssaly/Hangman-IOS-Game)
 
-## App Screenshots
-![Screenshot 1](url-to-screenshot)
-![Screenshot 2](url-to-screenshot)
-<!-- Add as many screenshots as needed -->
+<table align="center" style="width:100%; max-width:660px; border-collapse: collapse; background-color: #FFFFFF;">  <tr>
+    <td valign="top" style="width:50%;"> <!-- Cell for the title and bullet points -->
+      <h3>Technologies Used</h3> <!-- Title for the bullet points -->
+      <ul>
+        <li>Swift</li>
+        <li>URLSession</li>
+        <!-- Additional bullet points -->
+      </ul>
+    </td>
+      <td style="text-align:center; background-color: #ffffff;">
+      <img src="img/Hangman/1.png" width="200" height="400" style="margin-right: 10px;" />
+      <img src="img/Hangman/2.png" width="200" height="400" style="margin-right: 10px;" />
+      <img src="img/Hangman/3.png" width="200" height="400" />
+    </td>
+  </tr>
+  <tr>
+    <td> <!-- This cell will remain empty to maintain the structure -->
+    </td>
+      <td style="text-align:center; background-color: #ffffff;">
+      <img src="img/Hangman/4.png" width="200" height="400" style="margin-right: 10px;" />
+      <img src="img/Hangman/5.png" width="200" height="400" style="margin-right: 10px;" />
+      <img src="img/Hangman/6.png" width="200" height="400" />
+    </td>
+  </tr>
+</table>
 
-## Technologies Used
-### Programming Languages / Frameworks / Databases
-- ![Devicon for Language](url-to-devicon) Language Name
-- ![Devicon for Framework](url-to-devicon) Framework Name
-- ![Devicon for Database](url-to-devicon) Database Name
-<!-- Repeat for each technology -->
 
-### Other Technologies
-- :emoji: Technology 1
-- :emoji: Technology 2
-<!-- Use GitHub markdown emojis or images -->
 
-## Key Features and Functionalities
-- **Feature 1**: Description of feature or functionality.
-- **Feature 2**: Description of feature or functionality.
-<!-- Repeat for additional features -->
+
+
+
+ 
+A brief description of what the project does and the technologies used. 
+
 
 
 #### Project 2: [Project](link-to-project-repo)
