@@ -40,7 +40,6 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
       <h3>Technologies Used</h3>
        <li>Swift</li>
         <li>UIKit</li>
-        
     </td>
     <td valign="top" style="width:80%;">
       <img src="img/Hangman/1.png" width="200" height="400" />
