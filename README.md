@@ -74,7 +74,7 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
 
 
  
-A brief description of what the project does and the technologies used. 
+<!--A brief description of what the project does and the technologies used. -->
 
 
 
