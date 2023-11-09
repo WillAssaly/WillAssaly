@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
         <li>Delegation Pattern</li>
         <li>UIImage</li>
     </td>
-    <td valign="top" style="width:70%;">
+    <td>
       <img src="img/Hangman/1.png" width="200" height="400" />
       <img src="img/Hangman/2.png" width="200" height="400" />
       <img src="img/Hangman/3.png" width="200" height="400" />
