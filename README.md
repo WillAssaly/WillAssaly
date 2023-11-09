@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
 <!-- Table for Technologies Used and the first row of images -->
 <table style="width:100%; max-width:660px; border-collapse: collapse; margin: 0; padding: 0;" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="top" style="width:25%;"> 
+    <td valign="top" style="width:20%;"> 
       <h3>Technologies Used</h3>
        <li>Swift</li>
         <li>UIKit</li>
@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
         <li>Delegation Pattern</li>
         <li>UIImage</li>
     </td>
-    <td valign="top" style="width:75%;">
+    <td valign="top" style="width:80%;">
       <img src="img/Hangman/1.png" width="200" height="400" />
       <img src="img/Hangman/2.png" width="200" height="400" />
       <img src="img/Hangman/3.png" width="200" height="400" />
