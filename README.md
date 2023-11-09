@@ -46,6 +46,8 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
         <li>Core Data</li>
         <li>URLSession</li>
         <li>Codable</li>
+        <li>UISegmentedControl</li>
+        <li>Delegation Pattern</li>
         <li>UIImage</li>
     </td>
     <td valign="top" style="width:70%;">
