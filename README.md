@@ -78,7 +78,7 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
 
 
 
-#### Project 2: [Project](link-to-project-repo)
+### Project 2: [Project](link-to-project-repo)
 <!--![Project 2 Screenshot](link-to-image)
 Short explanation of the project, challenges faced, and solutions provided. -->
 
