@@ -51,9 +51,9 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
         <li>UIImage</li>
     </td>
     <td valign="top" style="width:80%;">
-      <img src="img/Hangman/1.png" width="180" height="360" />
-      <img src="img/Hangman/2.png" width="180" height="360" />
-      <img src="img/Hangman/3.png" width="180" height="360" />
+      <img src="img/Hangman/1.png" width="190" height="370" />
+      <img src="img/Hangman/2.png" width="190" height="370" />
+      <img src="img/Hangman/3.png" width="190" height="370" />
     </td>
   </tr>
 </table>
@@ -65,9 +65,9 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
 <table style="width:100%; max-width:660px; border-collapse: collapse; margin: 0; padding: 0;" cellspacing="0" cellpadding="0">
   <tr>
     <td style="text-align:center;">
-      <img src="img/Hangman/4.png" width="200" height="400" style="margin-right: 10px;" />
-      <img src="img/Hangman/5.png" width="200" height="400" style="margin-right: 10px;" />
-      <img src="img/Hangman/6.png" width="200" height="400" />
+      <img src="img/Hangman/4.png" width="190" height="370" style="margin-right: 10px;" />
+      <img src="img/Hangman/5.png" width="190" height="370" style="margin-right: 10px;" />
+      <img src="img/Hangman/6.png" width="190" height="370" />
     </td>
   </tr>
 </table>
