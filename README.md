@@ -33,32 +33,45 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
 
 ### Hangman: [Project](https://github.com/WillAssaly/Hangman-IOS-Game)
 
-<table align="center"  border-collapse: collapse;">
+<!-- Table for Technologies Used and the first row of images -->
+<table style="width:100%; max-width:660px; border-collapse: collapse; margin: 0; padding: 0;" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="top" style="width:30px;"> <!-- Cell for the technology box -->
+    <td valign="top" style="width:30%;"> 
       <h3>Technologies Used</h3>
-      <ul>
-        <li>Swift</li>
+       <li>Swift</li>
         <li>UIKit</li>
+        <li>Singleton Pattern</li>
+        <li>MVC</li>
+        <li>UserDefaults</li>
+        <li>Core Data</li>
         <li>URLSession</li>
         <li>Codable</li>
-        <li>CoreData</li>
-        <!-- Additional bullet points -->
-      </ul>
+        <li>UISegmentedControl</li>
+        <li>Delegation Pattern</li>
+        <li>UIImage</li>
     </td>
-    <td valign="top"> <!-- Cell for the screenshots -->
-      <!-- First row of images -->
+    <td valign="top" style="width:70%;">
       <img src="img/Hangman/1.png" width="200" height="400" style="margin-right: 10px;" />
       <img src="img/Hangman/2.png" width="200" height="400" style="margin-right: 10px;" />
       <img src="img/Hangman/3.png" width="200" height="400" />
-      <br> <!-- Break to the second row of images -->
-      <!-- Second row of images -->
+    </td>
+  </tr>
+</table>
+
+<!-- Spacing between the tables -->
+
+
+<!-- Table for the second row of images -->
+<table style="width:100%; max-width:660px; border-collapse: collapse; margin: 0; padding: 0;" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="text-align:center;">
       <img src="img/Hangman/4.png" width="200" height="400" style="margin-right: 10px;" />
       <img src="img/Hangman/5.png" width="200" height="400" style="margin-right: 10px;" />
       <img src="img/Hangman/6.png" width="200" height="400" />
     </td>
   </tr>
 </table>
+
 
  
 A brief description of what the project does and the technologies used. 
