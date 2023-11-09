@@ -40,15 +40,7 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
       <h3>Technologies Used</h3>
        <li>Swift</li>
         <li>UIKit</li>
-        <li>Singleton Pattern</li>
-        <li>MVC</li>
-        <li>UserDefaults</li>
-        <li>Core Data</li>
-        <li>URLSession</li>
-        <li>Codable</li>
-        <li>UISegmentedControl</li>
-        <li>Delegation Pattern</li>
-        <li>UIImage</li>
+        
     </td>
     <td valign="top" style="width:80%;">
       <img src="img/Hangman/1.png" width="200" height="400" />
