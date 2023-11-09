@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
 
 ### 🚀 My Projects
 
-### Hangman: [-More info ℹ️](https://github.com/WillAssaly/Hangman-IOS-Game)
+### Hangman : [ℹ️](https://github.com/WillAssaly/Hangman-IOS-Game)
 
 <!-- Table for Technologies Used and the first row of images -->
 <table style="width:100%; max-width:660px; border-collapse: collapse; margin: 0; padding: 0;" cellspacing="0" cellpadding="0">
