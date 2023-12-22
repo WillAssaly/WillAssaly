@@ -28,7 +28,8 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
 
 ---
 ### 🔭 I’m currently working on ...
-Android bedtime stories app using OpenAI GPT4 turbo to generate stories and text to speech to read the stories. This is a team final project for my mobile development course.
+#### - Android bedtime stories app using OpenAI GPT4 turbo to generate stories and text to speech to read the stories. This is a team final project for my mobile development course.
+#### - IOS Tic Tac Toe app running with AI. This is from a youtube tutorial, the UI will be much different with my version.
 ---
 ### 🚀 My Projects
 
