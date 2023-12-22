@@ -92,7 +92,7 @@ Short explanation of the project, challenges faced, and solutions provided. -->
 - User experience design
 - Augmented Reality (AR) app development
 - Artificial Intelligence (AI)
-
+- Stable Diffusion XL (SDXL)
 
 <!-- Optional sections could include 'Certifications', 'Education', 'Testimonials', or 'Featured In'. -->
 
