@@ -31,8 +31,15 @@ Welcome to my GitHub profile! I specialize in creating intuitive and responsive 
 #### - Android bedtime stories app using OpenAI GPT4 turbo to generate stories and text to speech to read the stories. This is a team final project for my mobile development course.
 #### - IOS Tic Tac Toe app running with AI. This is from a youtube tutorial, the UI will be much different with my version.
 ---
-### 🚀 My Projects
 
+### 💡 Interested in
+- Latest trends in mobile app development
+- User experience design
+- Augmented Reality (AR) app development
+- Artificial Intelligence (AI)
+- Stable Diffusion (SDXL) (SD1.5)
+---
+### 🚀 My Projects
 ### [Hangman - iOS 🔗](https://github.com/WillAssaly/Hangman-IOS-Game)
 
 <!-- Table for Technologies Used and the first row of images -->
@@ -86,15 +93,7 @@ Short explanation of the project, challenges faced, and solutions provided. -->
 
 <!-- Repeat for additional projects -->
 
----
 
-
-### 💡 Interested in
-- Latest trends in mobile app development
-- User experience design
-- Augmented Reality (AR) app development
-- Artificial Intelligence (AI)
-- Stable Diffusion XL (SDXL)
 
 <!-- Optional sections could include 'Certifications', 'Education', 'Testimonials', or 'Featured In'. -->
 
